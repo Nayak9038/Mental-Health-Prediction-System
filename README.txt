@@ -1,6 +1,6 @@
-#########################=
+===================================================
 MENTAL HEALTH PREDICTION SYSTEM
-#########################=
+===================================================
 
 This system uses facial analysis and psychometric assessments to predict mental states, emotional well-being, and potential behavioral tendencies based on age groups.
 
@@ -63,6 +63,6 @@ Then open the local URL shown in your terminal (usually http://localhost:8501).
 ---------------------------
 CREDITS
 ---------------------------
-Developed by: Aswani Kumar Nayak
+Developed by: Aswani Kumar Nayak 
 Supervisor: Dr. Abhishek Roy
 Project: Mental Health Prediction Using Natural Language Sentiment and Facial Expression Recognition
